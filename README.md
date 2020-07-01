@@ -1,2 +1,2 @@
-# DSA-BTS
-DSA BTS Drills 
+# DSA-BST
+DSA BST Drills 
